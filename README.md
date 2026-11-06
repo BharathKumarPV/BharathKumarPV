@@ -86,7 +86,7 @@
 
 | Project | What it is | Status / notes |
 |---|---|---|
-| [PagePilot](https://github.com/BharathKumarPV/Server-Down-AH-42-PagePilot) | Offline-first Windows AI assistant with local chat and document-intelligence work | In development; see repository for details |
+| [Personal Portfolio](https://github.com/BharathKumarPV/portfolio) | Interactive 3D WebGL point-cloud portfolio with animated UI and project showcase | [Live demo](https://bharathkumarsportfolio.vercel.app) |\n| [PagePilot](https://github.com/BharathKumarPV/Server-Down-AH-42-PagePilot) | Offline-first Windows AI assistant with local chat and document-intelligence work | In development; see repository for details |
 | [KisanConnect](https://github.com/BharathKumarPV/Mini-Project) | Agriculture-market information and farmer-to-buyer marketplace prototype | Demo authentication is not production-ready |
 | [LeetCode solutions](https://github.com/BharathKumarPV/leetcode-solutions) | Algorithm and data-structure practice | Ongoing learning repository |
 | [QR Generator](https://github.com/BharathKumarPV/Qr-Genarator) | Browser-based QR code generator | Small web project |
