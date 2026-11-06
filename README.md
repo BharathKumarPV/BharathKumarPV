@@ -8,7 +8,7 @@
       <img src="assets/bharath-developer.jpg" width="280" alt="Anime-style developer character holding an ASUS TUF laptop" />
     </td>
     <td width="62%" valign="middle">
-      <h1>Hey, I'm Bharath! 👋</h1>
+      <h1>Hey, I'm Bharath Kumar PV! 👋</h1>
       <p><strong>Student developer · Python · Offline AI · Full-stack experiments</strong></p>
       <p>I enjoy learning by building practical projects, exploring how local AI works, and solving problems one step at a time.</p>
       <p>Right now, I'm focused on Python, data structures and algorithms, and building useful applications.</p>
