@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td width="38%" align="center" valign="middle">
-      <img src="assets/bharath-developer.jpg" width="280" alt="Anime-style developer character holding an ASUS TUF laptop" />
+      <img src="assets/bharath-developer.png" width="280" alt="Anime-style developer character holding an ASUS TUF laptop" />
     </td>
     <td width="62%" valign="middle">
       <h1>Hey, I'm Bharath Kumar PV! 👋</h1>
@@ -106,7 +106,7 @@
 <table>
   <tr>
     <td width="55%" align="center" valign="middle">
-      <img src="assets/bharath-pointing.jpg" width="280" alt="Anime-style developer character pointing toward the BharathKumarPV neon sign" />
+      <img src="assets/bharath-pointing.png" width="280" alt="Anime-style developer character pointing toward the BharathKumarPV neon sign" />
     </td>
     <td width="45%" valign="middle">
       <h2>Have an idea to build?</h2>
