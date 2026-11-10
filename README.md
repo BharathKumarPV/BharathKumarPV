@@ -1,120 +1,111 @@
 <div align="center">
   <img src="assets/role-cycle.svg" width="100%" alt="Student developer, Python builder, and offline AI explorer" />
+  <h1>Hey, I'm Bharath Kumar PV</h1>
+  <p><strong>Student Developer · Artificial Intelligence & Data Science · Python · Offline AI · Full-Stack</strong></p>
+  <p>
+    <a href="https://bharathkumarsportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7c3aed?style=for-the-badge" alt="Visit portfolio" /></a>
+    <a href="https://github.com/BharathKumarPV?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects" /></a>
+  </p>
 </div>
 
 <table>
   <tr>
-    <td width="38%" align="center" valign="middle">
-      <img src="assets/bharath-developer.png" width="280" alt="Anime-style developer character holding an ASUS TUF laptop" />
+    <td width="34%" align="center" valign="middle">
+      <img src="assets/bharath-developer.png" width="260" alt="Developer character holding a laptop" />
     </td>
-    <td width="62%" valign="middle">
-      <h1>Hey, I'm Bharath Kumar PV! 👋</h1>
-      <p><strong>Student developer · Python · Offline AI · Full-stack experiments</strong></p>
-      <p>I enjoy learning by building practical projects, exploring how local AI works, and solving problems one step at a time.</p>
-      <p>Right now, I'm focused on Python, data structures and algorithms, and building useful applications.</p>
-      <p>
-        <a href="https://github.com/BharathKumarPV"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-        <a href="https://github.com/BharathKumarPV?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Projects-7c3aed?style=for-the-badge&logo=github" alt="Explore repositories" /></a>
-      </p>
+    <td width="66%" valign="middle">
+      <h2>01 · WHO AM I?</h2>
+      <p>I'm a B.E. student in <strong>Artificial Intelligence & Data Science</strong> at <strong>Don Bosco Institute of Technology (DBIT), Bengaluru</strong>, graduating in 2028.</p>
+      <p>I learn by building: experimenting with local AI, developing full-stack applications, and improving my problem-solving skills one project at a time.</p>
     </td>
   </tr>
 </table>
 
----
-
-## 02 · WHAT I BUILD
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🧠 Offline AI</h3>
-      <p>Local-first assistant experiments, document workflows, retrieval, and OCR.</p>
-      <sub>Current project: <a href="https://github.com/BharathKumarPV/Server-Down-AH-42-PagePilot">PagePilot</a></sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🌐 Full-stack apps</h3>
-      <p>Web interfaces, APIs, databases, and prototypes that solve practical problems.</p>
-      <sub>Project: <a href="https://github.com/BharathKumarPV/Mini-Project">KisanConnect</a></sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧩 Problem solving</h3>
-      <p>Python practice, data structures, algorithms, and learning through implementation.</p>
-      <sub><a href="https://github.com/BharathKumarPV/leetcode-solutions">LeetCode solutions</a></sub>
-    </td>
-  </tr>
-</table>
+```bash
+$ whoami
+name      : Bharath Kumar PV
+education : B.E. Artificial Intelligence & Data Science — DBIT, Bengaluru
+building  : offline AI tools and practical full-stack applications
+learning  : Python, data structures, Linux and DevOps fundamentals
+```
 
 ---
 
-## 03 · OUTSIDE THE EDITOR
+## 02 · PROJECTS I'M BUILDING
 
-<img src="assets/hobbies-carousel.svg" width="100%" alt="Scrolling strip showing side projects, gaming, creative design, and learning" />
+| Project | What it does | Status |
+|---|---|---|
+| [PagePilot](https://github.com/BharathKumarPV/Server-Down-AH-42-PagePilot) | Windows-first, offline AI assistant focused on local chat, PDF/document intelligence, evidence-backed answers, OCR/formula recognition, and DOCX workflows. | In development |
+| [KisanConnect](https://github.com/BharathKumarPV/Mini-Project) | Agriculture-market platform prototype for mandi-price tracking, market comparison, and a farmer-to-buyer marketplace. | Prototype · [Live website](https://kisanconnect-app.vercel.app/) |
+| [Personal Portfolio](https://github.com/BharathKumarPV/portfolio) | Interactive 3D portfolio using Three.js and WebGL to showcase my work. | Live · [Open portfolio](https://bharathkumarsportfolio.vercel.app) |
+| [LeetCode Solutions](https://github.com/BharathKumarPV/leetcode-solutions) | Python solutions and problem notes organised by difficulty. | Ongoing practice |
+
+<sub>Project status is intentionally kept conservative. Visit each repository for implementation details. KisanConnect authentication is demo functionality and is not production-ready; do not enter real or sensitive passwords on the demo site.</sub>
 
 ---
 
-## 04 · TECH ORBIT
+## 03 · TECH STACK
 
-<img src="assets/tech-orbit.svg" width="100%" alt="Technology orbit with Python, React, Node.js, TypeScript, SQLite, and Git" />
-
-<p align="center">
+<p><strong>Languages</strong><br />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
+<p><strong>Frontend & Backend</strong><br />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+</p>
+
+<p><strong>AI, Data & Tools</strong><br />
+  <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+<p><strong>Current learning focus:</strong> Linux/Ubuntu, DevOps fundamentals, data structures and algorithms, and practical AI/ML workflows.</p>
 
 ---
 
-## 05 · DEVELOPER ID & DASHBOARD
-
-<img src="assets/id-badge.svg" width="100%" alt="Bharath Kumar PV developer identity badge" />
-
-<p align="center"><strong>NOW BUILDING</strong><br />PagePilot — an offline-first Windows AI assistant. The project is actively evolving; see its repository for implementation notes and current status.</p>
+## 04 · GITHUB ACTIVITY
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=BharathKumarPV&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharathKumarPV&layout=compact&theme=tokyonight&hide_border=true" alt="Most used public repository languages" />
 </div>
 
----
-
-## 06 · PROJECTS & CONTRIBUTION LANDSCAPE
-
-| Project | What it is | Status / notes |
-|---|---|---|
-| [Personal Portfolio](https://github.com/BharathKumarPV/portfolio) | Interactive 3D WebGL point-cloud portfolio with animated UI and project showcase | [Live demo](https://bharathkumarsportfolio.vercel.app) |\n| [PagePilot](https://github.com/BharathKumarPV/Server-Down-AH-42-PagePilot) | Offline-first Windows AI assistant with local chat and document-intelligence work | In development; see repository for details |
-| [KisanConnect](https://github.com/BharathKumarPV/Mini-Project) | Agriculture-market information and farmer-to-buyer marketplace prototype | Demo authentication is not production-ready |
-| [LeetCode solutions](https://github.com/BharathKumarPV/leetcode-solutions) | Algorithm and data-structure practice | Ongoing learning repository |
-| [QR Generator](https://github.com/BharathKumarPV/Qr-Genarator) | Browser-based QR code generator | Small web project |
-
-<img src="assets/contribution-city.svg" width="100%" alt="Decorative isometric city symbolizing steady learning and building" />
-
-<p align="center"><sub>The isometric city is a visual motif. The contribution calendar below is the live GitHub activity chart.</sub></p>
-
 <p align="center">
-  <img src="https://ghchart.rshah.org/7c3aed/BharathKumarPV" alt="BharathKumarPV's GitHub contribution chart" width="100%" />
+  <img src="https://ghchart.rshah.org/7c3aed/BharathKumarPV" alt="BharathKumarPV GitHub contribution chart" width="100%" />
 </p>
 
 ---
 
-## 07 · LET'S CONNECT
+## 05 · OUTSIDE THE EDITOR
+
+<img src="assets/hobbies-carousel.svg" width="100%" alt="A visual strip of interests outside coding" />
+
+---
+
+## 06 · LET'S CONNECT
 
 <table>
   <tr>
-    <td width="55%" align="center" valign="middle">
-      <img src="assets/bharath-pointing.png" width="280" alt="Anime-style developer character pointing toward the BharathKumarPV neon sign" />
+    <td width="42%" align="center" valign="middle">
+      <img src="assets/bharath-pointing.png" width="260" alt="Developer character pointing toward the profile name" />
     </td>
-    <td width="45%" valign="middle">
+    <td width="58%" valign="middle">
       <h2>Have an idea to build?</h2>
-      <p>I'm always open to learning, collaborating, and creating useful things.</p>
-      <p><a href="https://github.com/BharathKumarPV"><img src="https://img.shields.io/badge/Follow%20my%20work-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a></p>
-      <p><a href="https://github.com/BharathKumarPV?tab=repositories">Browse all public repositories →</a></p>
+      <p>I'm interested in learning, collaborating, and building useful software.</p>
+      <p><a href="https://github.com/BharathKumarPV">GitHub profile</a> · <a href="https://github.com/BharathKumarPV?tab=repositories">All repositories</a> · <a href="https://bharathkumarsportfolio.vercel.app">Portfolio</a></p>
     </td>
   </tr>
 </table>
 
-<p align="center"><sub>Built with curiosity, consistency, and a lot of commits.</sub></p>
+<p align="center"><sub>Built with curiosity, steady practice, and a lot of commits.</sub></p>
